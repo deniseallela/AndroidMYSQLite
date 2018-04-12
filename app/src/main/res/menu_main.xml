@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/..."
+    xmlns:app="http://schemas.android.com/..."
+    xmlns:tools="http://schemas.android.com/..." tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="Settings" android:orderincategory="2" app:showasaction="never"/>
+
+</menu>
+
